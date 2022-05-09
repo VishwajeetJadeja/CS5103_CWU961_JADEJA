@@ -6,6 +6,11 @@
 - This project takes two Big numbers(thousands of digits) from the user and adds them.
 - Added the ability to take Big Numbers with decimal points from the user and add them.
 
+## Final Requirement
+
+- Take two Big Integers from the user and multiply them.
+- Multiplication can only be performed for Integers (without decimal points).
+
 ## User Stories:
 
 - Tristan wants to calculate the total distance of celestial bodies from the sun in kilometers.
